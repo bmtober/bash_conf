@@ -1,0 +1,10 @@
+\set HISTCONTROL ignoreboth
+\set VERBOSITY terse
+\set VERBOSITY default
+\set QUIET on
+\set QUIET off
+\set ON_ERROR_STOP on 
+\set ON_ERROR_ROLLBACK on 
+\set ENCODING 'UTF8'
+\setenv PAGER less
+\pset pager off 
